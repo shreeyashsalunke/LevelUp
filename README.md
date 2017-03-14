@@ -1,4 +1,4 @@
-<h5><i>Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar
+<h5><i>Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar<br>
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Hospital</i></h5>
 <hr>
 <iframe src="https://player.vimeo.com/video/134692853" width="832" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
