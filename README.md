@@ -46,6 +46,6 @@ s
 - The clip fitted on tumbler, cup and mug easily.
 - For colour contrast orange worked, but white did not. (But due to lack of coloured 3D printing material that could not be tested)
 - The visually impaired asked whether the material is food safe.
-<h2>Team</h2>
+<h2>The Team</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/12-team.jpeg">
- <p align="center"><font size="6">(from left)Shreeyash Salunke, Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</font></p>
+ <p align="center">(from left)Shreeyash Salunke, Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</p>
