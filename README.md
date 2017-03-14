@@ -2,6 +2,8 @@
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Hospital</i></h5>
 <hr>
 
+<iframe src="https://player.vimeo.com/video/134692853" width="832" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 In our hectic routine we perform simple tasks like filling up a glass of water and serving tea or coffee which although sounds very simple becomes very difficult when the visual feedback is removed from the scenario. Visually impaired people have a great difficulty in filling up liquids on a vessel and are not very confident to do it themselves with a fear of spilling things over.
 
 The current method used by visually impaired people for filling up a vessel is by dipping their finger inside the vessel and finding out whether the liquid is wetting their finger. They find this technique unhygienic and not socially accepting; also they cannot apply this method to hot liquids like tea or coffee. This is very discouraging for them in a social gathering it makes them dependent on someone’s help for a simple task of filling up a glass of water.
