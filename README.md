@@ -4,7 +4,7 @@ A frugal and innovative tool for visually impaired people to fill up liquids (li
 Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Hospital
 
-<iframe src="https://player.vimeo.com/video/134692853" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/134692853" width="832" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 In our hectic routine we perform simple tasks like filling up a glass of water and serving tea or coffee which although sounds very simple becomes very difficult when the visual feedback is removed from the scenario. Visually impaired people have a great difficulty in filling up liquids on a vessel and are not very confident to do it themselves with a fear of spilling things over.
 
