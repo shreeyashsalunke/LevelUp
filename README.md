@@ -20,7 +20,7 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/02-idea2.png">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/03-idea3.png">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/04-idea4.png">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/05-idea5.png">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/05-idea5-v2.png">
 <h2>Prototype 1</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/09-prototype1.JPG">
 <h2>Feedback on Testing Prototype 1</h2>
