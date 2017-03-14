@@ -14,7 +14,7 @@ Electronic liquid level Indicators are available but not economically viable. 80
 The device is 3D printed and works mechanically. It works on the principle of 'buoyancy'. The device has a small clip-on mechanism to fit on different tumblers, glasses and mugs. The vertical shaft is attached to the buoyant ball. The ball floats as the liquid level rises up to the brim, and the shaft rises up too. The visually impaired get a tactile feedback to stop the flow of liquid.
 
 The device can be easily mass mantufactured using a 'food safe' material and can be used in Rehabilitation centers to train the visually impaired to become independent in performing their daily activities.
-s
+
 <h2>Ideation</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/01-idea1.png">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/02-idea2.png">
