@@ -1,9 +1,5 @@
 # LevelUp
-
-A frugal and innovative tool for visually impaired people to fill up liquids (like tea, coffee, water) in cups, mug, tumbler, etc.
-
-Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar
-Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Hospital
+## LEvelUp
 
 <h5>Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Hospital</h5>
