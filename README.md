@@ -1,6 +1,3 @@
-# LevelUp
-## LEvelUp
-
 <h5>Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Hospital</h5>
 
