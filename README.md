@@ -48,4 +48,4 @@ s
 - The visually impaired asked whether the material is food safe.
 <h2>Team</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/12-team.jpeg">
-<h5 stule="align:center;">Shreeyash Salunke, Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal<h5>
+<p style="align:center;">(from left)Shreeyash Salunke, Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal<p>
