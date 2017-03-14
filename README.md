@@ -1,4 +1,4 @@
-<h5><span style="color:red;">Level Up was made as a part of a 5 day Hackathon arranged by MIT Media Labs and LV Prasad Eye Institute in Hyderabad</span><br>
+<h5><span style="color:red;">Level Up was made as a part of a 5 day Hackathon arranged by MIT Media Labs and LV Prasad Eye Institute in Hyderabad</span><br><br>
 <i>Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar<br>
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Institute</i></h5><hr>
 
