@@ -3,7 +3,7 @@
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Institute</i></h5><hr>
 
 <h2>Prototype Video</h2>
-<iframe src="https://player.vimeo.com/video/134692853" width="100%" height="56.25%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/134692853' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 In our hectic routine we perform simple tasks like filling up a glass of water and serving tea or coffee which although sounds very simple becomes very difficult when the visual feedback is removed from the scenario. Visually impaired people have a great difficulty in filling up liquids on a vessel and are not very confident to do it themselves with a fear of spilling things over.
 
