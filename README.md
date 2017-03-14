@@ -1,7 +1,7 @@
 <h5><i>Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar<br>
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Institute</i></h5>
 <hr>
-<p style="color:red;">Level Up was designed as a part of a 5 day Hackathon arranged by MIT Media Labs and LV Prasad Eye Institute</p>
+<h5 style="color:red;">Level Up was designed as a part of a 5 day Hackathon arranged by MIT Media Labs and LV Prasad Eye Institute</h5>
 
 <h1>Prototype Video</h1>
 <iframe src="https://player.vimeo.com/video/134692853" width="832" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
