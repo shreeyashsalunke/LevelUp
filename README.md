@@ -14,14 +14,35 @@ The device is 3D printed and works mechanically. It works on the principle of 'b
 
 The device can be easily mass mantufactured using a 'food safe' material and can be used in Rehabilitation centers to train the visually impaired to become independent in performing their daily activities.
 
-<img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/01-idea1.png">
+Ideation:
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/01-idea1.png">
 <img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/02-idea2.png">
 <img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/03-idea3.png">
 <img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/04-idea4.png">
 <img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/05-idea5.png">
-<img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/06-idea5.png">
-<img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/07-idea5.png">
-<img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/08-idea5.png">
+Prototyping:
+Prototype 1
 <img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/09-prototype1.JPG">
+Feedback on Testing:
+- Clip was not proper
+- The inner cylinder did not float
+- The whole device was very tiny for a visually impaired to feel
+<img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/06-idea5.png">
+Prototype 2
+<img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/07-idea5.png">
+Feedback on Testing:
+- The new thickness of the clip was fitting in too tight on a tumbler, so removing from a liquid filled tumbler was very difficult
+- The clip design did not fit on a mug
+- The inner cylinder was not floating very easily
+- The 3D printing machine was not able to print thin hollow cylinder
+- The colour of the inner cylinder and outer body should be contrast. This will aid partially visually impaired to see the different parts.
+- The visually impaired asked whether it can detect different levels, which the clip cannot do.
+<img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/08-idea5.png">
 <img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/10-prototype2.JPG">
+Prototype 3
 <img src="https://github.com/shreeyashsalunke/LevelUp/blob/master/images/11-prototype3.JPG">
+Feedback on Testing:
+- As 3D printing a thin hollow sphere was not possible, we used a foam to test proof of concept.
+- The clip fitted on tumbler, cup and mug easily.
+- For colour contrast orange worked, but white did not. (But due to lack of coloured 3D printing material that could not be tested)
+- The visually impaired asked whether the material is food safe.
