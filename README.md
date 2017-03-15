@@ -55,8 +55,3 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <h2>The Team</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/12-team.jpeg">
 <p align="center">(from left) Shreeyash Salunke(me), Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</p>
-
-
-
-
-
