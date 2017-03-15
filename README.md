@@ -23,17 +23,19 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/05-idea5-v2.png">
 <h2>Prototype 1</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/09-prototype1.JPG">
-<h2>Feedback on Testing Prototype 1</h2>
+<h2>Testing of Prototype 1</h2>
+<h3>Feedbacks</h3>
 - Clip was not proper
 - The inner cylinder did not float
 - The whole device was very tiny for a visually impaired to feel<br>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/06-idea5.png">
 <h2>Prototype 2</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/10-prototype2.JPG">
-<h2>Feedback on Testing Prototype 2</h2>
+<h2>Testing of Prototype 2</h2>
 <img id="gif-2" src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2-1 (dragged).jpeg" 
     onmouseover="document.getElementById('gif-2').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2.gif'" 
     onmouseout="document.getElementById('gif-2').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2-1 (dragged).jpeg'" />
+<h3>Feedbacks</h3>
 - The new thickness of the clip was fitting in too tight on a tumbler, so removing from a liquid filled tumbler was very difficult
 - The clip design did not fit on a mug
 - The inner cylinder was not floating very easily
@@ -44,10 +46,11 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/08-idea5.png">
 <h2>Prototype 3</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/11-prototype3.JPG">
-<h2>Feedback on Testing Prototype 3</h2>
+<h2>Testing of Prototype 3</h2>
 <img id="gif-3" src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2-1 (dragged).jpeg" 
     onmouseover="document.getElementById('gif-3').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2.gif'" 
     onmouseout="document.getElementById('gif-3').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2-1 (dragged).jpeg'" />
+<h3>Feedbacks</h3>
 - As 3D printing a thin hollow sphere was not possible, we used a foam to test proof of concept.
 - The clip fitted on tumbler, cup and mug easily.
 - For colour contrast orange worked, but white did not. (But due to lack of coloured 3D printing material that could not be tested)
