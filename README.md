@@ -29,7 +29,7 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 - The whole device was very tiny for a visually impaired to feel
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/06-idea5.png">
 <h2>Prototype 2</h2>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/07-idea5.png">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/10-prototype2.JPG">
 <h2>Feedback on Testing Prototype 2</h2>
 - The new thickness of the clip was fitting in too tight on a tumbler, so removing from a liquid filled tumbler was very difficult
 - The clip design did not fit on a mug
@@ -37,8 +37,8 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 - The 3D printing machine was not able to print thin hollow cylinder
 - The colour of the inner cylinder and outer body should be contrast. This will aid partially visually impaired to see the different parts.
 - The visually impaired asked whether it can detect different levels, which the clip cannot do.
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/07-idea5.png">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/08-idea5.png">
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/10-prototype2.JPG">
 <h2>Prototype 3</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/11-prototype3.JPG">
 <h2>Feedback on Testing Prototype 3</h2>
