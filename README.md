@@ -26,7 +26,7 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <h2>Feedback on Testing Prototype 1</h2>
 - Clip was not proper
 - The inner cylinder did not float
-- The whole device was very tiny for a visually impaired to feel
+- The whole device was very tiny for a visually impaired to feel<br>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/06-idea5.png">
 <h2>Prototype 2</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/10-prototype2.JPG">
@@ -36,7 +36,7 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 - The inner cylinder was not floating very easily
 - The 3D printing machine was not able to print thin hollow cylinder
 - The colour of the inner cylinder and outer body should be contrast. This will aid partially visually impaired to see the different parts.
-- The visually impaired asked whether it can detect different levels, which the clip cannot do.
+- The visually impaired asked whether it can detect different levels, which the clip cannot do.<br>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/07-idea5.png">
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/08-idea5.png">
 <h2>Prototype 3</h2>
