@@ -32,6 +32,8 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/10-prototype2.JPG">
 <h2>Feedback on Testing Prototype 2</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2.gif">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2.gif" id="gif1" alt="image" />
+<a href="#" onclick="document.getElementById('gif1').src='moving.gif'">play</a>
 - The new thickness of the clip was fitting in too tight on a tumbler, so removing from a liquid filled tumbler was very difficult
 - The clip design did not fit on a mug
 - The inner cylinder was not floating very easily
