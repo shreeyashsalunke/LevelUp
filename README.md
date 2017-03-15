@@ -53,10 +53,10 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <p align="center">(from left) Shreeyash Salunke(me), Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</p>
 
 
-<img id="gif-2" src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2-1 (dragged).tiff" 
+<img id="gif-2" src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2-1 (dragged).png" 
     onmouseover="document.getElementById('gif-2').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2.gif'" 
-    onmouseout="document.getElementById('gif-2').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2-1 (dragged).tiff'" />
+    onmouseout="document.getElementById('gif-2').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2-1 (dragged).png'" />
 
-<img id="gif-3" src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2-1 (dragged).tiff" 
+<img id="gif-3" src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2-1 (dragged).png" 
     onmouseover="document.getElementById('gif-3').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2.gif'" 
-    onmouseout="document.getElementById('gif-3').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2-1 (dragged).tiff'" />
+    onmouseout="document.getElementById('gif-3').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2-1 (dragged).png'" />
