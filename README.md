@@ -51,3 +51,18 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <h2>The Team</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/12-team.jpeg">
  <p align="center">(from left) Shreeyash Salunke(me), Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</p>
+
+
+  <h3>The first image is a gif that plays once when you open the page, then "replays" when you click the link below it.</h3>
+  <img id="gif-1" src="http://insightgraphicdesign.net/wp-content/uploads/2014/07/coke-responsive-logo.gif" alt="animated gif" />
+  <p>
+    <a href="#" 
+      onclick="document.getElementById('gif-1').src='http://insightgraphicdesign.net/wp-content/uploads/2014/07/coke-responsive-logo.gif'">
+     Click to replay gif above</a>
+  </p>
+  
+  <h3>The second image is a static png that "plays" the gif when you mouse over it, then when you mouseout, it shows the static png image again. (In this case the static png is like the final frame of the gif.)</h3>
+  <img id="gif-2" src="http://insightgraphicdesign.net/wp-content/uploads/2014/07/coke-1.png" 
+    onmouseover="document.getElementById('gif-2').src='http://insightgraphicdesign.net/wp-content/uploads/2014/07/coke-responsive-logo_copy.gif'" 
+    onmouseout="document.getElementById('gif-2').src='http://insightgraphicdesign.net/wp-content/uploads/2014/07/coke-1.png'" 
+  />
