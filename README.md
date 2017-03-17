@@ -32,9 +32,7 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <h2>Prototype 2</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/10-prototype2.JPG">
 <h2>Testing of Prototype 2</h2>
-<img id="gif-2" src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2-1 (dragged).jpeg" 
-    onmouseover="document.getElementById('gif-2').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2.gif'" 
-    onmouseout="document.getElementById('gif-2').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2-1 (dragged).jpeg'" />
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/14-testing-prototype-2.gif">
 <h3>Feedbacks</h3>
 - The new thickness of the clip was fitting in too tight on a tumbler, so removing from a liquid filled tumbler was very difficult
 - The clip design did not fit on a mug
@@ -47,9 +45,7 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <h2>Prototype 3</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/11-prototype3.JPG">
 <h2>Testing of Prototype 3</h2>
-<img id="gif-3" src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2-1 (dragged).jpeg" 
-    onmouseover="document.getElementById('gif-3').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2.gif'" 
-    onmouseout="document.getElementById('gif-3').src='https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2-1 (dragged).jpeg'" />
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2.gif">
 <h3>Feedbacks</h3>
 - As 3D printing a thin hollow sphere was not possible, we used a foam to test proof of concept.
 - The clip fitted on tumbler, cup and mug easily.
