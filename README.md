@@ -45,7 +45,7 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 <h2>Prototype 3</h2>
 <img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/11-prototype3.JPG">
 <h2>Testing of Prototype 3</h2>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3 v2.gif">
+<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/15-testing-prototype-3-v2.gif">
 <h3>Feedbacks</h3>
 - As 3D printing a thin hollow sphere was not possible, we used a foam to test proof of concept.
 - The clip fitted on tumbler, cup and mug easily.
