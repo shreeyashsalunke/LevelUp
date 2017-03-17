@@ -53,4 +53,4 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 - The visually impaired asked whether the material is food safe.
 <h2>The Team</h2>
 <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/12-team.jpeg">
-<figcaption align="center">(from left) Shreeyash Salunke(me), Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</figcaption></center></figure>
+<figcaption align="center"><h5>(from left) Shreeyash Salunke(me), Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</h5></figcaption></center></figure>
