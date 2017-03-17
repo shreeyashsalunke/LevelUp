@@ -52,5 +52,5 @@ The device can be easily mass mantufactured using a 'food safe' material and can
 - For colour contrast orange worked, but white did not. (But due to lack of coloured 3D printing material that could not be tested)
 - The visually impaired asked whether the material is food safe.
 <h2>The Team</h2>
-<img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/12-team.jpeg">
-<p align="center">(from left) Shreeyash Salunke(me), Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</p>
+<figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/LevelUp/master/images/12-team.jpeg">
+<figcaption align="center">(from left) Shreeyash Salunke(me), Dhruv Joshi, Sujeath Pareddy, Sarvesh Pimpalkar, Sanchit Kumar Agarwal and Samarth Bansal</figcaption></center></figure>
